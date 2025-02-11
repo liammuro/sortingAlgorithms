@@ -1,4 +1,3 @@
-#include <UnitTest++/UnitTest++.h>
 
 #include "bogoSort.h"
 #include "bubbleSort.h"
@@ -8,3 +7,8 @@
 #include "quickSort.h"
 #include "selectionSort.h"
 #include "slowSort.h"
+
+int main() {
+    
+    return 0;
+}
