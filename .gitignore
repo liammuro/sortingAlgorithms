@@ -1,0 +1,24 @@
+# Adapted from lab03 .gitignore
+
+# Executables
+tests
+
+
+# C/C++ library and object files
+*.o
+*.a
+*.so
+
+# MAC, vim, emacs goofiness
+.DS_STORE
+.DS_STORE?
+*~
+*#
+.#*
+.nfs*
+.*.sw?
+
+# More editor temp files
+._*
+.vscode
+
